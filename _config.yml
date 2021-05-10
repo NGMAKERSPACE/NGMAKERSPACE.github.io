@@ -24,14 +24,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
+title: Makerspace | Nyborg Gymnasium
+email: makerspace@nyborg-gym.dk
 author: GitHub User
-copyright: Copyright © 1970-2010
+copyright: Copyright © 2021-2021
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Velkommen til Nyborg Gymnasiums officielle hjemmeside for skolens Makerspace.
+  Makerspace er åbent for alle elever og lærer på skolen. I skolens Makerspace har du mulighed for at arbejde med
+  3D-printere, laserskærer, computere mm.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -52,10 +52,10 @@ yat:
 # google_analytics: [Tracking ID]
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "da"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
