@@ -5,7 +5,7 @@
 {% if include.params.lang %}
   {% assign lang = include.params.lang %}
 {% else %}
-  {% assign lang = lang | default: site.lang | default: "en" %}
+  {% assign lang = lang | default: site.lang | default: "da" %}
 {% endif %}
 
 {% if include.params.speed %}
@@ -24,13 +24,11 @@
 {% assign hours = total_mins | divided_by: 60 %}
 {% assign mins = total_mins | modulo: 60 %}
 
-{% assign return = "Omkring" %}
+{% assign return = "Ca." %}
 
 {% if hours > 0 %}
   {% assign unit = "timer" %}
-  <!-- {% if hours > 1 %}
-    {% assign unit = unit | append: "s" %}
-  {% endif %} -->
+
   {% assign return = return
     | append: " "
     | append: hours
@@ -39,9 +37,7 @@
 {% endif %}
 
 {% assign unit = "minutter" %}
-<!--{% if mins > 1 %}
-  {% assign unit = unit | append: "s" %}
-{% endif %} -->
+
 {% assign return = return
   | append: " "
   | append: mins
