@@ -28,9 +28,9 @@
 
 {% if hours > 0 %}
   {% assign unit = "timer" %}
-  {% if hours > 1 %}
+  <!-- {% if hours > 1 %}
     {% assign unit = unit | append: "s" %}
-  {% endif %}
+  {% endif %} -->
   {% assign return = return
     | append: " "
     | append: hours
@@ -38,10 +38,10 @@
     | append: unit %}
 {% endif %}
 
-{% assign unit = "min" %}
-{% if mins > 1 %}
+{% assign unit = "minutter" %}
+<!--{% if mins > 1 %}
   {% assign unit = unit | append: "s" %}
-{% endif %}
+{% endif %} -->
 {% assign return = return
   | append: " "
   | append: mins
