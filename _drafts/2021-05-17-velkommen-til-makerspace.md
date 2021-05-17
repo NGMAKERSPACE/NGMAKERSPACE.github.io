@@ -2,11 +2,9 @@
 layout: post
 title: Velkommen til Makerspace!
 subheading: Vi glæder os til at se dig.
-author: Magnus
+author: "Magnus"
 categories: jekyll
-banner: https://bit.ly/32PAjtM
-tags: meddelelse
-sidebar: []
+tags: Meddelelse
 ---
 
 Hjertelig velkommen til Nyborg Gymnasiums Makerspace. Vi vil gerne byde dig velkommen til vores hjemmeside, hvor du kan finde vigtige beskeder samt generel information og Makerspace.
