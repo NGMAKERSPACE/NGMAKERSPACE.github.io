@@ -3,8 +3,8 @@ layout: post
 title: Velkommen til Makerspace!
 subheading: Vi glæder os til at se dig.
 author: "Magnus"
-categories: jekyll
-tags: Meddelelse
+categories: "Meddelelse"
+tags: "Åbningstider"
 ---
 
 Hjertelig velkommen til Nyborg Gymnasiums Makerspace. Vi vil gerne byde dig velkommen til vores hjemmeside, hvor du kan finde vigtige beskeder samt generel information og Makerspace.
@@ -17,13 +17,10 @@ Nyborg Gymnasiums Makerspace er et tilbud til alle skolens elever og lærer. I s
 Ønsker du at kontakte os, kan du finde vores kontaktinfo [her](https://ngmakerspace.github.io/about.html).
 
 ### Åbningstider
+*Vi arbejder på at kunne holde åbent oftere*
 
 **VIGTIG INFO:** Grundet Corona holder vi på nuværende tidspunkt lukket hos Makerspace. Når vi ved mere om, hvornår vi kan åbne igen melder vi ud. :)
 
 Normale åbningstider er torsdag eftermiddag fra kl 15:10.
-
-*Vi arbejder på at kunne holde åbent oftere*
-
-
 
 Vi glæder os meget til at møde dig!
