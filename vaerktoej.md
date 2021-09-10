@@ -6,7 +6,7 @@ title: Værktøj
 ## Vores værktøj
 På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligeledes kunne finde tekniske specifikationer, vejledninger og regler for brug.
 
-###Laserskærer VLS6.60
+### Laserskærer VLS6.60
 
 #### Kom godt i gang
 En introduktion til brug af Universal Laser Systems VLS 6.60. En uddybende guide findes [her](/assets/guides/VLS-Platform-User-Guide.pdf).
