@@ -12,16 +12,13 @@ Hvis du har lyst kan du læse mere om, hvem vi er nedenfor eller øverst i menue
 
 ### Om Makerspace
 
-Nyborg Gymnasiums Makerspace er et tilbud til alle skolens elever og lærer. I skolens makerspace har du mulighed for at nørde og arbejde med sjove projekter. Fx kommer nogle for at reparere telefoner, bygge computere, designe lamper, smykker og meget mere. Det er også i skolens Makerspace, at du finder både 3D-printere og en laserskærer. Vi holder åbent Torsdag eftermiddag fra 15:10 og til vi ikke gider mere, typisk et par timer. Hvis du ønsker at benytte Makerspace udenfor almindelig åbningstid kan du lave en aftale med Magnus eller Jacob.
+Nyborg Gymnasiums Makerspace er et tilbud for alle byens borgere. I skolens makerspace har du mulighed for at nørde og arbejde med sjove projekter. Fx kommer nogle for at reparere telefoner, bygge computere, designe lamper, smykker og meget mere. Det er også i skolens Makerspace, at du finder både 3D-printere og en laserskærer. Vi holder åbent Torsdag eftermiddag fra 15:10 og til vi ikke gider mere, typisk et par timer. Hvis du ønsker at benytte Makerspace udenfor almindelig åbningstid kan du lave en aftale med Magnus eller Jacob.
 
 Ønsker du at kontakte os, kan du finde vores kontaktinfo [her](https://ngmakerspace.github.io/about.html).
 
 ### Åbningstider
 *Vi arbejder på at kunne holde åbent oftere*
 
-**VIGTIG INFO:** Grundet Corona holder vi på nuværende tidspunkt lukket hos Makerspace. Når vi ved mere om, hvornår vi kan åbne igen melder vi ud. :)
-Vi forventer at kunne åbne op for alle skolens elever og ansatte i starten af det nye skoleår 21/22.
-
-Normale åbningstider er torsdag eftermiddag fra kl 15:10.
+Normal åbningstid er torsdag eftermiddag fra kl 15:10.
 
 Vi glæder os meget til at møde dig!
