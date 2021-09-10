@@ -8,7 +8,7 @@ På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligelede
 
 ***
 ### Laserskærer VLS6.60
-En kort introduktion til brug af Universal Laser Systems VLS 6.60. En uddybende guide findes på ULS egen hjemmeside [her](/assets/guides/VLS-Platform-User-Guide.pdf). Nedenfor ses en illustration af vores Laserskærer.
+En kort introduktion til brug af Universal Laser Systems VLS 6.60. En uddybende guide findes på ULS' egen hjemmeside [her](/assets/guides/VLS-Platform-User-Guide.pdf). Nedenfor ses en illustration af vores Laserskærer.
 
 ![VLS6.60](/assets/images/pages/vaerktoej/vls-pic.jpg "Laserskærer")
 
@@ -21,18 +21,16 @@ For at benytte VLS 6.60 er det **nødvendigt**, at der benyttes en Windows-baser
 2. Installer driveren. (Sæt flueben i VLS 6.60)
 3. Du har nu installeret driveren.
 
-#### Software
+#### Designsoftware og indstillinger
 Det eneste program, der kan benyttes direkte sammen med UCP-driveren er Adobe Illustrator. Dette er dog et betalingsprogram.
-Som alternativ kan gratisprogrammet Inkscape benyttes.
+Som alternativ kan gratisprogrammet Inkscape benyttes til at lave sine designs.
 
-Downloads:
+*Downloads:*
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html).
 - [Inkscape](https://inkscape.org/release/inkscape-1.1/).
 
 
-
-Udskæringsindstillinger:
-
+*Udskæringsindstillinger:*
 - De tre udskæringsindstillinger / farver er
   - Sort: R: 0 G: 0 B: 0
   - Blå: R: 0 G: 0 B: 255
@@ -56,6 +54,7 @@ Udskæringsindstillinger:
 
 #### Opstart og brug af maskinen
 1. Tænd for udsugningssystemet. Laserskæreren må under **ingen omstændigheder** benyttes uden udsugning!
+
   > Anvendes laserskæreren uden udsugning kan det resultere i brand, forgiftning og/eller i værste tilfælde dødsfald. Anvend derfor **ALTID** udsugningen!
 
 2. Isæt USB-ledningen i computeren. (Den ligger nok løst til venstre for udsugningen).
