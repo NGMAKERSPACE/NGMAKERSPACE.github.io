@@ -1,13 +1,16 @@
 ---
 layout: about
 title: Værktøj
+header-includes: |
+  \usepackage{titlesec}
+  \titlespacing{\title}{0pt}{\parskip}{-\parskip}
 ---
 
 ## Vores værktøj
 På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligeledes kunne finde tekniske specifikationer, vejledninger og regler for brug.
 
 ### Laserskærer VLS6.60
-
+***
 #### Kom godt i gang
 En introduktion til brug af Universal Laser Systems VLS 6.60. En uddybende guide findes [her](/assets/guides/VLS-Platform-User-Guide.pdf).
 
@@ -53,10 +56,10 @@ Opsætning af BLÅ graveringstreg i Inkscape:
 - Farve: R: 255 G: 0 B: 0
 
 #### Opstart og brug af maskinen
-1. Tænd for udsugningssystemet. Laserskæreren må under ingen omstændigheder benyttes uden udsugning!
+1. Tænd for udsugningssystemet. Laserskæreren må under **ingen** omstændigheder benyttes uden udsugning!
 2. Isæt USB-ledningen i computeren. (Den ligger nok løst til venstre for udsugningen).
 3. Tænd laserskæreren på knappen.
-4. Du er nu klar til at skære.
+4. Du er nu klar til at benytte laserskæreren.
 
 #### Tekniske specifikationer
 - Arbejdsareal: 813 x 457 mm
