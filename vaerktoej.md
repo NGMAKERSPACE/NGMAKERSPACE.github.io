@@ -8,7 +8,7 @@ På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligelede
 
 ***
 ### Laserskærer VLS6.60
-
+![VLS6.60](/assets/images/pages/vaerktoej/vls-pic.jpg)
 En kort introduktion til brug af Universal Laser Systems VLS 6.60.
 En uddybende guide findes [her](/assets/guides/VLS-Platform-User-Guide.pdf).
 
@@ -28,6 +28,7 @@ Som alternativ kan gratisprogrammet Inkscape benyttes.
 Downloads:
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html).
 - [Inkscape](https://inkscape.org/release/inkscape-1.1/)
+
 
 
 Udskæringsindstillinger:
@@ -70,6 +71,7 @@ Opsætning af BLÅ graveringstreg i Inkscape:
 [Make a nametag](http://makeanametag.net/)
 
 ***
+
 
 ### 3D-printere
 I Makerspace har vi på nuværende tidspunkt én enkelt 3D-printer. Vi forventer dog at have flere 3D-printere i løbet af de næste par måneder.
