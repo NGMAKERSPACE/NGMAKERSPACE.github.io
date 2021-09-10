@@ -6,6 +6,9 @@ title: Værktøj
 ## Vores værktøj
 På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligeledes kunne finde tekniske specifikationer, vejledninger og regler for brug.
 
+
+**Vær venligst opmærksom på, at du IKKE må bruge laserskæreren eller 3D-printerne før du har fået et personligt kursus**
+
 ***
 ### Laserskærer VLS6.60
 En kort introduktion til brug af Universal Laser Systems VLS 6.60. En uddybende guide findes på ULS' egen hjemmeside [her](/assets/guides/VLS-Platform-User-Guide.pdf). Nedenfor ses en illustration af vores Laserskærer.
@@ -83,12 +86,12 @@ I Makerspace har vi på nuværende tidspunkt én enkelt 3D-printer. Vi forventer
 
 #### Installation af Software
 For at komme i gang med at 3D-printe skal du anskaffe et slice-program til din computer. Det er dette program, der inddeler din model i lag, som 3D-printeren kan printe. Vi anbefaler Ultimaker Cura.
-1. Download Ultimaker Cura
-2. Installer Cura. (Sæt flueben ved Ultimaker 2+)
+1. Download [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura).
+2. Installer Cura. (Sæt flueben ved Ultimaker 2+).
 3. Så er du klar til at slice modeller.
 
 *Downloads:*
-Ultimaker Cura kan findes på deres hjemmeside [her](https://ultimaker.com/software/ultimaker-cura).
+- Ultimaker Cura kan findes på deres hjemmeside [her](https://ultimaker.com/software/ultimaker-cura).
 
 #### Opstart af maskinen
 Generelle retningslinjer ifm. opstart af 3D-printerne.
@@ -111,7 +114,7 @@ Generelle retningslinjer ifm. opstart af 3D-printerne.
 ![ultimaker 2+](/assets/images/pages/vaerktoej/ultimaker2.jpg "Ultimaker 2+")
 
 ##### Printerindstillinger
-Vi anbefaler, at du anvender vores printprofil til Ultimaker 2+ printeren. Du finder profilen [her](#). Kommer snart.
+Vi anbefaler, at du anvender vores printprofil til Ultimaker 2+ printeren. Du finder profilen [her](#). **Kommer snart.**
 
 Ved at anvende vores profil sikrer du dig, at du får et pænt print uden at skulle eksperimentere med indstillingerne. Du er ligeledes sikker på, at du ikke kommer til at ødelægge noget.
 
@@ -119,17 +122,26 @@ Ved at anvende vores profil sikrer du dig, at du får et pænt print uden at sku
 **Vær opmærksom på, at pladen nogle gange skal kalibreres. Hvis printeren ikke printer et pænt første lag bedes du kalibrere printeren eller kontakte en ansvarlig, der kan hjælpe dig.**
 
 ##### Tekniske specifikationer for Ultimaker 2+
-- Arbejdsareal: 223 x 223 x 205 mm (L, B, H)
+- Arbejdsareal: 223 x 223 x 205 mm (L, B, H).
 - Printtykkelse: ned til 0,12 mm.
-- Printhastighed 30 mm/s - 100 mm/s (anbefalet)
+- Printhastighed 30 mm/s - 100 mm/s (anbefalet).
 - Nozzlediameter: 0,4 mm.
 - Filamentdiameter 2,85 mm
-- Filament: PLA (Da printeren ikke er indelukket, må den **IKKE** printe med ABS!)
+- Filament: PLA (Da printeren ikke er indelukket, må den **IKKE** printe med ABS eller andre giftige filamenter!)
 
 #### Ender 3
+
+![Ender 3V2](/assets/images/pages/vaerktoej/ender-3v2.jpg "Ender 3V2")
+
 
 *Kommer snart*
 
 ***
 
 ### Tryk på tekstiler
+
+*Kommer snart*
+
+***
+
+### Håndværktøj
