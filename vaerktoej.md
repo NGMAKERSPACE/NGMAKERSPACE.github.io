@@ -76,12 +76,60 @@ Her kan du finde nogle smarte programmer, der kan forsimple designprocessen:
 
 
 ### 3D-printere
+Nedenfor finder du en kort introduktion til brug af vores 3D-printere. Først følger de generelle opsætningsskridt, hvorefter de 3D-printerspecifikke indstillinger opdeles i hver deres sektion.
+
+
 I Makerspace har vi på nuværende tidspunkt én enkelt 3D-printer. Vi forventer dog at have flere 3D-printere i løbet af de næste par måneder.
 
+#### Installation af Software
+For at komme i gang med at 3D-printe skal du anskaffe et slice-program til din computer. Det er dette program, der inddeler din model i lag, som 3D-printeren kan printe. Vi anbefaler Ultimaker Cura.
+1. Download Ultimaker Cura
+2. Installer Cura. (Sæt flueben ved Ultimaker 2+)
+3. Så er du klar til at slice modeller.
+
+*Downloads:*
+Ultimaker Cura kan findes på deres hjemmeside [her](https://ultimaker.com/software/ultimaker-cura).
+
+#### Opstart af maskinen
+Generelle retningslinjer ifm. opstart af 3D-printerne.
+1. Rengør pladen (heatbed) med rengøringsmidlet (det grønne). Brug kun ganske lidt!
+2. Tænd for 3D-printeren.
+3. Indsæt SD-kort med din .gcode-fil.
+4. Start printet.
+5. Kontroller at første lag ser rigtigt ud.
+
+*Programmer til 3D-modellering*
+- [Autodesk Tinkercad](https://www.tinkercad.com/). Dette program kører i din browser.
+- [Autodesk Fusion360](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual). Dette program skal downloades og er meget ressourcekrævende.
+
+
+*Vi anbefaler, at du starter med Tinkercad. Når du mestrer dette program kan du eksperimentere med Fusion360*
+
+
 #### Ultimaker 2+
+
+![ultimaker 2+](/assets/images/pages/vaerktoej/ultimaker2.jpg "Ultimaker 2+")
+
+##### Printerindstillinger
+Vi anbefaler, at du anvender vores printprofil til Ultimaker 2+ printeren. Du finder profilen [her](#). Kommer snart.
+
+Ved at anvende vores profil sikrer du dig, at du får et pænt print uden at skulle eksperimentere med indstillingerne. Du er ligeledes sikker på, at du ikke kommer til at ødelægge noget.
+
+
+**Vær opmærksom på, at pladen nogle gange skal kalibreres. Hvis printeren ikke printer et pænt første lag bedes du kalibrere printeren eller kontakte en ansvarlig, der kan hjælpe dig.**
+
+##### Tekniske specifikationer for Ultimaker 2+
+- Arbejdsareal: 223 x 223 x 205 mm (L, B, H)
+- Printtykkelse: ned til 0,12 mm.
+- Printhastighed 30 mm/s - 100 mm/s (anbefalet)
+- Nozzlediameter: 0,4 mm.
+- Filamentdiameter 2,85 mm
+- Filament: PLA (Da printeren ikke er indelukket, må den **IKKE** printe med ABS!)
 
 #### Ender 3
 
 *Kommer snart*
+
+***
 
 ### Tryk på tekstiler
