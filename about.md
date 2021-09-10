@@ -13,9 +13,9 @@ Hjemmesiden er lavet sådan, at du har mulighed for at anvende Google Translate 
 Du har ligeledes mulighed for at se siden i en mørk udgave, hvis du vælger at slå dark-mode til.
 
 ## Kontakt os
-Ved generelle henvendelser og spørgsmål om Makerspace, er du velkommen til at tage kontakt til Magnus eller Jacob på Lectio.
+Er du elev, lærer eller øvrigt ansat på skolen, er du velkommen til at tage kontakt til Magnus (MJT) eller Jacob (MU) på Lectio.
 
-Øvrige henvendelser bedes sendes til mjt@nyborg-gym.dk.
+Øvrige henvendelser bedes sendes til Magnus på mjt@nyborg-gym.dk.
 
 ## Besøg os
 Makerspace ligger i C500 ved siden af den gamle idrætssal og den kommende klatrerhal. Har du problemer med at finde herhen kan du benytte kortet nedenfor eller kontakte Magnus eller Jacob. Vi glæder os til at se dig!
