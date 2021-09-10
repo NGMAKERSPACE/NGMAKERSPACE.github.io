@@ -30,7 +30,7 @@ author: Nyborg Gymnasium | Makerspace
 copyright: Copyright © 2021-2021
 description: >- # this means to ignore newlines until "baseurl:"
   Velkommen til Nyborg Gymnasiums officielle hjemmeside for skolens Makerspace.
-  Makerspace er åbent for alle elever og lærer på skolen. I skolens Makerspace har du mulighed for at arbejde med
+  Makerspace er åbent for alle byens borgere. I skolens Makerspace har du mulighed for at arbejde med
   3D-printere, laserskærer, computere mm.
 
 baseurl: "" # the subpath of your site, e.g. /blog
