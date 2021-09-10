@@ -30,7 +30,8 @@ Downloads:
 - [Inkscape](https://inkscape.org/release/inkscape-1.1/)
 
 
-**Udskæringsindstillinger:**
+Udskæringsindstillinger:
+
 
 De tre udskæringsindstillinger / farver er
 - Sort: R: 0 G: 0 B: 0
