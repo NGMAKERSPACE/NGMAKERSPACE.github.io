@@ -9,10 +9,12 @@ header-includes: |
 ## Vores værktøj
 På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligeledes kunne finde tekniske specifikationer, vejledninger og regler for brug.
 
-### Laserskærer VLS6.60
 ***
-#### Kom godt i gang
-En introduktion til brug af Universal Laser Systems VLS 6.60. En uddybende guide findes [her](/assets/guides/VLS-Platform-User-Guide.pdf).
+
+### Laserskærer VLS6.60
+
+En kort introduktion til brug af Universal Laser Systems VLS 6.60.
+En uddybende guide findes [her](/assets/guides/VLS-Platform-User-Guide.pdf).
 
 #### Installation af drivere
 **Driverne er kun kompatible med Windows**
@@ -69,6 +71,8 @@ Opsætning af BLÅ graveringstreg i Inkscape:
 
 #### Smarte programmer
 [Make a nametag](http://makeanametag.net/)
+
+***
 
 ### 3D-printere
 I Makerspace har vi på nuværende tidspunkt én enkelt 3D-printer. Vi forventer dog at have flere 3D-printere i løbet af de næste par måneder.
