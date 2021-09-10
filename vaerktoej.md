@@ -11,7 +11,6 @@ På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligelede
 
 <h2 id="laserskærer-vls6.60">Laserskærer VLS6.60</h2>
 
-<p>
   Kom godt i gang
   En introduktion til brug af Universal Laser Systems VLS 6.60. En uddybende guide findes [her](/assets/guides/VLS-Platform-User-Guide.pdf).
 
@@ -67,7 +66,7 @@ På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligelede
   Computerkrav: Windows PC 7/8/10 32/64 bit med USB 2.0 port (eller bedre).
   Optik: HPDFO™ 2″(standard)
   Laserstørrelse (CO2): 60 watt.
-</p>
+
 
 
 
