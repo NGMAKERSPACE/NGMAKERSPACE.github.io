@@ -1,16 +1,12 @@
 ---
 layout: about
 title: Værktøj
-header-includes: |
-  \usepackage{titlesec}
-  \titlespacing{\title}{0pt}{\parskip}{-\parskip}
 ---
 
 ## Vores værktøj
 På denne side kan du se, hvilket værktøj vi har i Makerspace. Du vil ligeledes kunne finde tekniske specifikationer, vejledninger og regler for brug.
 
 ***
-
 ### Laserskærer VLS6.60
 
 En kort introduktion til brug af Universal Laser Systems VLS 6.60.
